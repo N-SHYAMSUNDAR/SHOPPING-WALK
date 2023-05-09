@@ -1,5 +1,5 @@
 # E-Commerce-Website
-### I have design an E-Commerce Website named E-Commerce. This project was build as a individual project in Masai School. 
+### I have design an E-Commerce Website named E-Commerce. This project was build as a individual project . 
 
 # Features:-
 1. You will find latest products on this website.
@@ -19,13 +19,6 @@
 5. MongoDB
 6. Material UI
 
-## Contact
-
-Alok Kushwaha - [My Linkedin](https://www.linkedin.com/in/alok-kushwaha-02b6ba129/)
-
-Project Link - [Project Repo](https://github.com/Alok0818/E-Commerce-mern-website)
-
-Project Deployed Link - [Project Deployed Link](https://e-commerce-alokkushwaha.vercel.app/)
 
 # Glimpse of Our Work:-
 
